@@ -1,0 +1,5 @@
+c:\users\hoang\documents\visual studio 2017\Projects\demoOOPCsharp\demoOOPCsharp\bin\Debug\demoOOPCsharp.exe
+c:\users\hoang\documents\visual studio 2017\Projects\demoOOPCsharp\demoOOPCsharp\bin\Debug\demoOOPCsharp.pdb
+c:\users\hoang\documents\visual studio 2017\Projects\demoOOPCsharp\demoOOPCsharp\obj\Debug\demoOOPCsharp.csprojResolveAssemblyReference.cache
+c:\users\hoang\documents\visual studio 2017\Projects\demoOOPCsharp\demoOOPCsharp\obj\Debug\demoOOPCsharp.exe
+c:\users\hoang\documents\visual studio 2017\Projects\demoOOPCsharp\demoOOPCsharp\obj\Debug\demoOOPCsharp.pdb
